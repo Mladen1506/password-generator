@@ -10,7 +10,7 @@ Application that can be used to generate a random password based on criteria sel
 * Java Script
 
 ## Website
-
+https://mladen1506.github.io/password-generator/
 ## Contribution
 
 Made with  ❤️   by Mladen Makivic
